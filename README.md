@@ -60,6 +60,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amin Farahbakhsh](https://github.com/farahbakhsh3)
 - [RoyaCodes 💎 ](https://github.com/royacodes)
 - [pouria](https://github.com/pouriahashtroudi)
+- [Parinaz :heart_eyes:] (https://github.com/parinaziii013)
 - [mahdimosavi](https://github.com/MahdyMusave/gittutorial.git)
 - [Pourya Kamyarfard ❤️](https://github.com/wwindux)
 - [amir rahimi :) ](https://github.com/amirrahimii)
